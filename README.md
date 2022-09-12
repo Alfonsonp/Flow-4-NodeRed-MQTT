@@ -19,9 +19,9 @@ Este es el flow 4 y es el cuarto ejercicio el cual consta en mostrar la temperat
 
 # Instrucciones
 
-1: Arrancar NodeRed desde la terminal con el comando "node-red" 
-2: Obtener el flow del repositorio 
-3: Dar click en Deploy
+1: Arrancar NodeRed desde la terminal con el comando "node-red". 
+2: Obtener el flow del repositorio.
+3: Dar click en Deploy.
 
 # Resultados
 
